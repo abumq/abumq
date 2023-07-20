@@ -9,7 +9,7 @@
 
 <p align="left">
 
-  <img src="https://komarev.com/ghpvc/?username=abumq" />
+  <fimg src="https://komarev.com/ghpvc/?username=abumq" />
 </p>
 
 <table border="10"><tr>
