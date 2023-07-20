@@ -6,11 +6,8 @@
 <a href="https://www.linkedin.com/in/abumq" target="_blank" rel="nofollow"><img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.twitter.com/abumq0" target="_blank" rel="nofollow"><img align="right" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 </p>
-
-<p align="left">
-
-  <fimg src="https://komarev.com/ghpvc/?username=abumq" />
-</p>
+<br/>
+<br/>
 
 <table border="10"><tr>
 <td align="center">
