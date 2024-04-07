@@ -14,4 +14,4 @@
 ☝️ This is not a true representation of most used languages, as I have over 30 private repositories in my personal Github account and over 50 private repositories spread across 3 personally owned organizations. These repositories use mixture of C++, BASH, SQL, Javascript (for Vanilla JS, React and Node.js) and Python (for ML/AI, Jupyter notebooks, APIs and scripts)
 
 ## Sponsorship
-If my work benefits you or your organization in any way, or you want to support me by resuming work on my dream project (Firewebkit Cloud Platform), please consider supporting me via [Github sponsorship program](https://github.com/sponsors/abumq).
+If my work benefits you or your organization in any way, or you want to support me by resuming work on my dream project, please consider supporting me via [Github sponsorship program](https://github.com/sponsors/abumq).
